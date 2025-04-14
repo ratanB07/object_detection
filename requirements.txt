@@ -1,0 +1,9 @@
+flask
+pandas
+numpy
+opencv-python
+ultralytics
+torch
+werkzeug
+gunicorn
+requests==2.31.0
