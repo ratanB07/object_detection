@@ -51,22 +51,30 @@ Multithreading	Non-blocking video processing
 bash
 Copy
 Edit
+
 git clone https://github.com/ratanB07/object_detection.git
+
 cd object_detection
-2. Install Requirements
+
+3. Install Requirements
 bash
 Copy
 Edit
+
 pip install -r requirements.txt
-3. Download YOLOv8 Weights (Auto-downloaded on first run)
+
+5. Download YOLOv8 Weights (Auto-downloaded on first run)
 Or manually place yolov8s.pt in the project root.
 
-4. Run the Flask Server
+6. Run the Flask Server
 bash
 Copy
 Edit
+
 python app.py
-5. Open in Browser
+
+8. Open in Browser
+
 Go to http://127.0.0.1:5000 to use the app.
 
 📊 Output Structure
